@@ -72,6 +72,11 @@ Always learning, building, and shipping new ideas.
 ![](https://komarev.com/ghpvc/?username=Harshitt23&color=blueviolet)
 
 
+ ### 💭 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 ---
 
 
