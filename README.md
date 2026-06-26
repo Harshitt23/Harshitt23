@@ -57,10 +57,6 @@ Always learning, building, and shipping new ideas.
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,vite,jetpackcompose,wsl,figma&perline=12)
 
 
-## 🔥 GitHub Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harshitt23&theme=tokyonight)
-
 
 ## 📊 GitHub Stats
 
