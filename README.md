@@ -32,24 +32,24 @@ Always learning, building, and shipping new ideas.
 
 # 🚀 Technologies & Tools
 ## 🧠 Languages  
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,css,html,js,ts,go,python,kotlin,powershell,rust,solidity&perline=12)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,css,html,js,ts,python,powershell&perline=12)
 
 
 
 ## ⚛️ Frameworks / Libraries   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,electron,expo,tailwind,bootstrap,threejs,gsap,redux,zustand,authjs,clerk,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,fiber,gin,trpc,grpc,socketio,selenium,langchain,huggingface,graphql,apollo,tensorflow,pytorch&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,tailwind,bootstrap,threejs,redux,zustand,authjs,nodejs,expressjs,socketio,selenium,huggingface,tensorflow&perline=12)
 
 
 ## 🗄️ Databases & ORMs  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,supabase,duckdb,pinecone,prisma,drizzle,gorm&perline=12)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,soql,redis,supabase,prisma&perline=12)
 
 
 ## ⚙️ DevOps / Cloud 
-![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,argocd,grafana,prometheus,nginx,ngrok,vercel,cloudflare,aws,gcp,githubactions,kafka,rabbitmq,terraform,linux&perline=12)
+![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,nginx,vercel,cloudflare,aws,githubactions,terraform,linux&perline=12)
 
 
 ## 🧰 Tools  
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,deno,vite,gradle,jetpackcompose,wsl,figma,androidstudio&perline=12)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,vite,jetpackcompose,wsl,figma&perline=12)
 
 
 
