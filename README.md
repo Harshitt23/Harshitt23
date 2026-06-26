@@ -72,8 +72,6 @@ Always learning, building, and shipping new ideas.
 ![](https://komarev.com/ghpvc/?username=Harshitt23&color=blueviolet)
 
 
-Let's connect and create something amazing together! -->
-
 ---
 
 
