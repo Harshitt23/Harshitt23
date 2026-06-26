@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Harshit Sharma
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Hackathon+Winner;Building+Scalable+SaaS;Open+to+Software+Engineer+Roles" />
+</p>
 
 ## 🚀 About Me
 
@@ -51,6 +54,17 @@ Always learning, building, and shipping new ideas.
 ## 🧰 Tools  
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,vite,jetpackcompose,wsl,figma&perline=12)
 
+
+## 🔥 GitHub Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Harshitt23&theme=tokyonight)
+
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Harshitt23&theme=tokyonight&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitt23&layout=compact&theme=tokyonight)
 
 
 Let's connect and create something amazing together! -->
