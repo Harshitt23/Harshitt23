@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshit Sharma
 
-<!--
-**Harshitt23/Harshitt23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a software engineer passionate about building scalable applications, AI-powered systems, and developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+
+* 🌐 Full-Stack Development
+* 📱 Salesforce Development
+* ⚡ Backend & Distributed Systems
+* ☁️ Cloud & DevOps
+
+I enjoy designing high-performance systems, experimenting with new technologies, and transforming ideas into real-world products.
+
+### 🎯 Currently Exploring
+* AI Agents & Autonomous Systems
+* Local LLM Deployment
+
+Always learning, building, and shipping new ideas.
+
+
+---
+
+## 💬 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge\&logo=vercel\&logoColor=white)](https://my-port-folio-icz419rav-harshitt23s-projects.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harshitcode/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshitr2308@gmail.com)
+
+
+
+# 🚀 Technologies & Tools
+## 🧠 Languages  
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,c,cpp,css,html,js,ts,go,python,kotlin,powershell,rust,solidity&perline=12)
+
+
+
+## ⚛️ Frameworks / Libraries   
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,electron,expo,tailwind,bootstrap,threejs,gsap,redux,zustand,authjs,clerk,nodejs,expressjs,hono,django,flask,fastapi,meteorjs,fiber,gin,trpc,grpc,socketio,selenium,langchain,huggingface,graphql,apollo,tensorflow,pytorch&perline=12)
+
+
+## 🗄️ Databases & ORMs  
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,firebase,redis,supabase,duckdb,pinecone,prisma,drizzle,gorm&perline=12)
+
+
+## ⚙️ DevOps / Cloud 
+![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm,argocd,grafana,prometheus,nginx,ngrok,vercel,cloudflare,aws,gcp,githubactions,kafka,rabbitmq,terraform,linux&perline=12)
+
+
+## 🧰 Tools  
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,deno,vite,gradle,jetpackcompose,wsl,figma,androidstudio&perline=12)
+
+
+
+Let's connect and create something amazing together! -->
+
+---
+
+
+
+
