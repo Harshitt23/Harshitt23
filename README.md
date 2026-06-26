@@ -37,7 +37,7 @@ Always learning, building, and shipping new ideas.
 
 
 ## ⚛️ Frameworks / Libraries   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,tailwind,bootstrap,threejs,redux,zustand,authjs,nodejs,expressjs,socketio,selenium,huggingface,tensorflow&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,reactnative,tailwind,bootstrap,redux,zustand,authjs,nodejs,expressjs,socketio,huggingface,tensorflow&perline=12)
 
 
 ## 🗄️ Databases & ORMs  
