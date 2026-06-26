@@ -53,6 +53,7 @@ Always learning, building, and shipping new ideas.
 ![Containers](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,nginx,vercel,cloudflare,aws,githubactions,terraform,linux&perline=12)
 
 
+
 ## 🧰 Tools  
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,pnpm,bun,vite,jetpackcompose,wsl,figma&perline=12)
 
@@ -64,7 +65,7 @@ Always learning, building, and shipping new ideas.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitt23&layout=compact&theme=tokyonight)
 
-
+![](https://komarev.com/ghpvc/?username=Harshitt23&color=blueviolet)
 
 
 Let's connect and create something amazing together! -->
