@@ -70,11 +70,11 @@ Always learning, building, and shipping new ideas.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitt23&layout=compact&theme=tokyonight)
 
 
- ### 💭 Random Dev Quote
+ ## 💭 Random Dev Quote 
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
+ ##
 ![](https://komarev.com/ghpvc/?username=Harshitt23&color=blueviolet)
 
 
