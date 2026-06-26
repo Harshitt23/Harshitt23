@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Harshit Sharma
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Hackathon+Winner;Building+Scalable+SaaS;Open+to+Software+Engineer+Roles" />
-</p>
+<h1 align="center">Hi 👋 I'm Harshit Sharma</h1>
+
+<h3 align="center">
+🏆 2× National Hackathon Winner • 💻 Full Stack Developer • 🚀 Building Production-Ready SaaS
+</h3>
+
 
 ## 🚀 About Me
 
@@ -65,6 +67,8 @@ Always learning, building, and shipping new ideas.
 ![](https://github-readme-stats.vercel.app/api?username=Harshitt23&theme=tokyonight&show_icons=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitt23&layout=compact&theme=tokyonight)
+
+
 
 
 Let's connect and create something amazing together! -->
