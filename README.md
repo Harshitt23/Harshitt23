@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Harshit Sharma</h1>
 
 <h3 align="center">
-🏆 2× National Level Hackathon Winner • 💻 Full Stack Developer • 🚀 Building Production SaaS
+🏆 2× National Level Hackathon Winner • 💻 Full Stack Developer • 🚀 Building Production-ready SaaS
 </h3>
 
 
