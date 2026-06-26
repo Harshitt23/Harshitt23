@@ -41,7 +41,7 @@ Always learning, building, and shipping new ideas.
 
 
 ## 🗄️ Databases & ORMs  
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,soql,redis,supabase,prisma&perline=12)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,postgresql,mongodb,redis,supabase,prisma&perline=12)
 
 
 ## ⚙️ DevOps / Cloud 
